@@ -3,14 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        a {
-            display: block;
-            margin-bottom: 10px;
-        }
-    </style>
 </head>
 <body>
+    <br>
     <h1 align="left">🎮 Hangman's Noose</h1>
     <hr>
     <br>
