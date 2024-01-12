@@ -3,20 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        a {
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
-<h1 align="left">🎮 Hangman's Noose</h1>
-__________________________________________________________________________________________________________
-
-<a algin="left" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-</a>
-
+    <h1 align="left">🎮 Hangman's Noose</h1>
+    <hr>
+    <br>
+    <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    </a>
 <p>A game without an interface developed in Python, with the aim of applying some of the techniques learned with this language.</p>
 <p>This game is based on the following link:https://thewordsearch.com/hangman/#google_vignetteL</p>
-
+   <br>
 <h1 align="left">🎯 Step by Step</h1> 
-___________________________________________________________________________________________________________
+<hr>
  <ul>
  <li>Define the list of possible words</li>
  <li>Choose a random word from the list</li> 
